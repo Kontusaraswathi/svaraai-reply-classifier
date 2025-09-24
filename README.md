@@ -1,1 +1,12 @@
-# svaraai-reply-classifier
+torch>=2.0.0
+transformers>=4.40.0
+datasets>=2.14.0
+evaluate>=1.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+lightgbm>=4.0.0   
+fastapi>=0.100.0
+uvicorn>=0.23.0
+nest-asyncio>=1.6.0
+pyngrok>=6.2.1
+pandas>=2.0.0
